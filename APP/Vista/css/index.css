@@ -7,6 +7,10 @@ body{
 	background-image: url("../imagenes/fondo.jpg");
 	background-position: center;
 	background-attachment: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-mox-background-size: cover;
+	-webkit-background-size: cover;
 }
 .cuadro{
 	background-color: rgba(236,240,241,0.7);
